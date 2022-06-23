@@ -11,3 +11,10 @@ optim_data/
 _site
 *.lock
 .sass-cache
+
+.idea/
+
+farms_container
+farms_network
+farms_pylog
+sc_model
